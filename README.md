@@ -1,4 +1,4 @@
-# 📼 RetroPlayer Enterprise (v1.0.0)
+# 📼 RetroPlayer Enterprise (v1.1.0)
 
 **RetroPlayer** is a lightweight, open-source video UI wrapper designed to bring the sharp, professional "Metro" aesthetic of the IE10/Windows 8 era to modern web video. 
 
